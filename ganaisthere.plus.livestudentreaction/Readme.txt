@@ -5,20 +5,6 @@ Please Ensure That There Is A Package Present Here. (Must Including 'Vanilla' Pa
 
 -------------------------------------------------------------------------------
 
-Credit For Preset Package:
-
-Bengo Pack:
-'Bengo's AWESOME pack!' By Bengo
-https://gamebanana.com/members/5135217
-https://gamebanana.com/mods/701751
-
-MSP_Player Pack:
-'Minesweeper Plus' By Jorel Simpson
-https://jorel-simpson.itch.io/minesweeper-plus
-MS+ Player Rip By Johansen1116
-https://www.spriters-resource.com/pc_computer/minesweeperplus/asset/460963/
-https://www.spriters-resource.com/profile/johansen1116/
-
 Credit For Mods Support:
 
 'BBIMAMTMP!': By ruin321
